@@ -1,0 +1,47 @@
+
+* {
+  margin: 0;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 72px;
+  align-items: center;
+}
+
+.container {
+
+  max-width: 1280px;
+   margin: 0 auto;
+
+}
+nav ul{
+  display: flex;
+  gap: 24px;
+  list-style: none;
+}
+: root {
+  --red : #d01c28;
+  ---gray : #2e2e2e;
+}
+button {
+  all :unset;
+  display: flex; 
+  padding: 16px 16px;
+  background: ;
+  height:  10px;
+
+  font-weight: 500;
+}
+
+.hero{
+  display: flex;
+  align-items: center;
+}
+
+.hero-btn{
+  display: flex;
+}
+.nav-list {
+  color: #856395;
+}
